@@ -13,8 +13,8 @@
     <th colspan="2" align="center">NÍVEL BÁSICO</th>
   </tr>
   <tr>
-    <th align="center">Desafio</th>
-    <th align="center">Solução</th>
+    <th align="center"><a href="https://www.hackerrank.com/challenges/revising-the-select-query/">Revising the Select Query I</a></th>
+    <th align="center"><a href="https://github.com/Puziol/SQL-Challenges-HackerRank-PT-BR/blob/main/Solu%C3%A7%C3%B5es-Desafios-HackerRank/SQL-B%C3%A1sico/Revising%20the%20Select%20Query%20I.md">Solução</a></th>
   </tr>
   <tr>
     <td>Nome</td>
