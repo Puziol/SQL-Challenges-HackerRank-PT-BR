@@ -4,7 +4,7 @@
   </tr>
   
   <tr>
-    <td colspan="2">Query the NAME field for all American cities in the CITY table with populations larger than 120000. The CountryCode for America is USA.
+    <td colspan="2" align="center">Query the NAME field for all American cities in the CITY table with populations larger than 120000. The CountryCode for America is USA.
 
 The CITY table is described as follows:
   </td>
@@ -57,7 +57,7 @@ The CITY table is described as follows:
   </tr>
   
   <tr>
-    <td colspan="2"  align="center">
+    <td colspan="2"  align="left">
       <b>Solução em MYSQL</b><br>
       
 ```sql
