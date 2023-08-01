@@ -10,7 +10,7 @@
 
 <table align="center" border=10">
   <tr>
-    <th colspan="2" align="center">NÍVEL FÁCIL</th>
+    <th colspan="2" align="center">NÍVEL BÁSICO</th>
   </tr>
   <tr>
     <th align="center">Desafio</th>
@@ -24,7 +24,7 @@
 
 <table align="center" border=10">
   <tr>
-    <th colspan="2" align="center">NÍVEL MÉDIO</th>
+    <th colspan="2" align="center">NÍVEL INTERMEDIÁRIO</th>
   </tr>
   <tr>
     <th align="center">Desafio</th>
@@ -38,7 +38,7 @@
 
 <table align="center" border=10">
   <tr>
-    <th colspan="2" align="center">NÍVEL DIFÍCIL</th>
+    <th colspan="2" align="center">NÍVEL AVANÇADO</th>
   </tr>
   <tr>
     <th align="center">Desafio</th>
