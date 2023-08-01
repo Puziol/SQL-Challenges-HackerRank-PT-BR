@@ -4,7 +4,7 @@
   </tr>
   
   <tr>
-    <td colspan="2">Query all columns (attributes) for every row in the CITY table.
+    <td colspan="2" align="center">Query all columns (attributes) for every row in the CITY table.
 
 The CITY table is described as follows:
   </td>
