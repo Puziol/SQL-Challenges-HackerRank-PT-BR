@@ -58,7 +58,7 @@
   
   <tr>
     <td colspan="2"  align="center">
-      <b>Solução em MYSQL</b><br>
+      <b>Solução em MYSQL</b>
       
 ```sql
 SELECT * 
