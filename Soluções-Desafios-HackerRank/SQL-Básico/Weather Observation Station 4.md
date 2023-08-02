@@ -77,6 +77,7 @@ FROM STATION;
 <b>2. -:</b> Subtrai o resultado da contagem total pelo próximo cálculo.<br>
 <b>3. COUNT(DISTINCT CITY):</b> Isso calcula o número de entradas de cidades distintas na tabela STATION.<br>
 <b>4. AS DIFFERENCA:</b> Renomeia a coluna resultante como "DIFFERENCA".<br>
+<b>5. FROM STATION:</b> Indica a tabela de onde queremos obter os dados, que é a tabela STATION.<br> 
 <br>
 <i>A consulta retornará um único valor representando a diferença entre o número total de entradas de cidades e o número de entradas de cidades distintas na tabela STATION. Isso fornecerá o resultado solicitado no problema, onde é calculada a diferença entre o número total de registros e o número de nomes de cidades únicas na tabela.</i>
 </td>
