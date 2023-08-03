@@ -49,3 +49,7 @@
     <td>Linkt</td>
   </tr>
 </table>
+
+<br><br><br><br>
+<p align="center">Quantidade de visitas recebidas</p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SQL-Challenges-HackerRank-PT-BR/count.svg" /></p>
